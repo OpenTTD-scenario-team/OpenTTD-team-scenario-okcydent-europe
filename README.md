@@ -1,6 +1,5 @@
 # HOW TO USE:
-Fork, add your scenario file and bzikaj
-
+Code->Clone->HTTPS copy command, paste to terminal, hit enter
 
 # GUIDE:
 
