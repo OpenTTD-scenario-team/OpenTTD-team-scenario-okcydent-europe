@@ -12,3 +12,6 @@ Potem odpal skrypt start.bat - tworzy on nowy pusty plik z twoją nazwą usera, 
 Odpal ttd i poklikaj co tam trzeba
 
 Wpisz zmianę do changeloga, odpal save.bat - usuwa pusty plik, robi commita i pusha
+
+# Rezerwacje rejonów
+Wchodzicie w issues -> new issue i piszecie co bierzecie. Jak skończycie, zamykacie issue
