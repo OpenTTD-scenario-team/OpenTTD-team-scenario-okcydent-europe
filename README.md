@@ -1,6 +1,3 @@
-# HOW TO USE:
-Fork, add your scenario file and bzikaj
-
 
 # GUIDE:
 
