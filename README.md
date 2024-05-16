@@ -19,5 +19,4 @@ Wchodzicie w issues -> new issue i piszecie co bierzecie. Jak skończycie, zamyk
 
 # changelog
 
-
-----
+16.05.24 (emile) - kilka miast w Polsce przy Wiśle
