@@ -15,3 +15,9 @@ Wpisz zmianę do changeloga, odpal save.bat - usuwa pusty plik, robi commita i p
 
 # Rezerwacje rejonów
 Wchodzicie w issues -> new issue i piszecie co bierzecie. Jak skończycie, zamykacie issue
+
+
+# changelog
+
+
+----
