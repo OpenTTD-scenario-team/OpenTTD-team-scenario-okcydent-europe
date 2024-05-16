@@ -1,5 +1,5 @@
 # HOW TO USE:
-Code->Clone->HTTPS copy command, paste to terminal, hit enter
+Code->Clone->HTTPS copy url, open terminal, type "git clone ", paste URL, hit enter
 
 # GUIDE:
 
