@@ -27,5 +27,5 @@ Wchodzicie w issues -> new issue i piszecie co bierzecie. Jak skończycie, zamyk
 17.05.24 (emile) - zmiana ustawień mapy - kilka industry w jednym mieście, odległość między miastami |
 17.05.24 (kubaziel) - kilka portów we Francji, Wisełka od Torunia za Kwidzyn, naprawiony Grudziądz XD |
 17.05.24 (cheron) - Bodensee |
-17.05.24 (kubaziel) - Wolin, Wisełka za Toruń, wybrzeże Normandii, rzeka Oise |
+17.05.24 (kubaziel) - Wolin, Bornholm, Wisełka za Toruń, wybrzeże Normandii, część rzeki Oise |
 18.05.24 (kubaziel) - wschodnia Anglia: Kingston upon Hull, Grimsby, King's Lynn, Ipswich |
