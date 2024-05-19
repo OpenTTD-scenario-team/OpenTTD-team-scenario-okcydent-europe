@@ -32,3 +32,4 @@ Wchodzicie w issues -> new issue i piszecie co bierzecie. Jak skończycie, zamyk
 18.05.24 (kubaziel) - Baleary (dopieszczone jak skurwysyn)
 18.05.24 (Fritz) - Umiejscowienie miast w Polsce (głównie zachód), przesunięcie Lęborka i Poznania
 19.05.24 (Cheron) Ren od Bodensee do Bazylei
+19.05.24 (emile) - miasta w wielkopolsce po fritzu + cała kreta (dojebana)
