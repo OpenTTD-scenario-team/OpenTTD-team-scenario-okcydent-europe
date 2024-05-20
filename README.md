@@ -34,3 +34,4 @@ Wchodzicie w issues -> new issue i piszecie co bierzecie. Jak skończycie, zamyk
 - 19.05.24 (Cheron) Ren od Bodensee do Bazylei
 - 19.05.24 (emile) - miasta w wielkopolsce po fritzu + cała kreta (dojebana)
 - 19.05.24 (kubaziel) - dopieszczenie Normandii i Sekwany; przemysł (trochę na pałę XD), rzeki, dodanie/poprawienie miast i wsi
+- 20.05.24 (kubaziel) - pierdolenie się z kolejnymi rzekami w Normandii, kontynuacja rzeki Oise
